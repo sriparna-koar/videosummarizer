@@ -6,3 +6,4 @@ pathlib
 transformers
 tensorflow
 torch
+deep-translator
